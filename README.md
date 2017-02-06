@@ -1,5 +1,5 @@
 # Assignment-2
-#This is the first project for Penn State's cmpsc 311 project
+
 #Written in C
 #DO NOT ATTEMPT TO COPY THE CODE. IT IS KEPT TRACK OF BY THE CLASS PROFESSOR, and THE AUTHOR OF THIS PROJECT.
 #FOLLOWING IS THE ASSIGNMENT DESCRIPTION:
