@@ -1,7 +1,4 @@
-# Assignment-2
-
 #Written in C
-#DO NOT ATTEMPT TO COPY THE CODE. IT IS KEPT TRACK OF BY THE CLASS PROFESSOR, and THE AUTHOR OF THIS PROJECT.
 #FOLLOWING IS THE ASSIGNMENT DESCRIPTION:
 #    (a) Read in 20 integer values from the terminal and place them in an array. Note the code to perform
 #this step is already provided.
